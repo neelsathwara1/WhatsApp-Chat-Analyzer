@@ -1,5 +1,5 @@
 # WhatsApp-Chat-Analyzer
-A powerful and easy-to-use tool to analyze WhatsApp chat data using Python libraries such as Pandas, Seaborn, and Streamlit. This project allows users to visualize various insights and trends from their WhatsApp chat histories, providing a deeper understanding of communication patterns, user activity, and other statistics.
+WhatsApp Chat Analyzer is a Python-based tool that provides insightful visualizations and analysis from WhatsApp chat exports. Built using Pandas, Seaborn, and Streamlit, this app allows users to dive deep into their chat histories, uncovering patterns, trends, and statistics about message activity, frequently used words, top emojis, and more. Ideal for anyone looking to explore their WhatsApp communication data in a meaningful way.
 
 ## Features
 - Chat Activity Overview: Analyze the overall chat activity, including the total number of messages, active days, and top contributors.
